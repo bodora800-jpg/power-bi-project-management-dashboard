@@ -16,4 +16,4 @@ The dashboard provides insights into project status, completion rates, project d
 
 The dashboard provides visual insights into project status, planned vs. actual performance, project duration, resource utilization, and other project management metrics.
 
-![Project Management Dashboard](dashboard_overview.png)
+![Project Management Dashboard](Dashboard_overview.png)
