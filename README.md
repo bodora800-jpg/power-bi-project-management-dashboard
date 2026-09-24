@@ -17,3 +17,16 @@ The dashboard provides insights into project status, completion rates, project d
 The dashboard provides visual insights into project status, planned vs. actual performance, project duration, resource utilization, and other project management metrics.
 
 ![Project Management Dashboard](Dashboard_overview.png.JPG)
+
+
+## Skills Demonstrated
+
+- Microsoft Power BI
+- Data Cleaning and Transformation
+- Data Modeling and Relationships
+- Data Analysis
+- Data Visualization
+- Business Intelligence (BI)
+
+
+
