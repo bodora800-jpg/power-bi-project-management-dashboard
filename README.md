@@ -11,3 +11,9 @@ The dashboard provides insights into project status, completion rates, project d
 - Created relationships between multiple datasets.
 - Developed the dashboard visualizations and analytical views, excluding the KPI cards.
 - Contributed to the overall dashboard design and organization.
+
+## Dashboard Overview
+
+The dashboard provides visual insights into project status, planned vs. actual performance, project duration, resource utilization, and other project management metrics.
+
+![Project Management Dashboard](dashboard_overview.png)
