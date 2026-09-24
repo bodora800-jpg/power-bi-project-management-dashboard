@@ -7,11 +7,7 @@ The dashboard provides insights into project status, completion rates, project d
 ## My Contribution
 
 - Selected and prepared the project management data for analysis.
-
 - Cleaned and transformed the datasets in Power BI.
-
 - Created relationships between multiple datasets.
-
-- Developed KPIs to monitor project performance.
-
-- Contributed to the design and development of the interactive dashboard.
+- Developed the dashboard visualizations and analytical views, excluding the KPI cards.
+- Contributed to the overall dashboard design and organization.
